@@ -2,6 +2,7 @@ name = d7pf_video
 description = Video content type, will eventually include views
 core = 7.x
 package = Video
+php = 5.2.4
 dependencies[] = ctools
 dependencies[] = features
 dependencies[] = field_sql_storage
